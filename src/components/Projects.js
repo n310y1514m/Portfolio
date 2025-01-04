@@ -11,7 +11,8 @@ function Projects() {
     <div className="mama">      
         <div className="haha">
         <button onClick={() => setCurrentArticle(1)}>Resume</button>
-        <button onClick={() => setCurrentArticle(2)}>Weather</button>
+        <button onClick={() => setCurrentArticle(2)}>Weather</button
+    <p>slkfjsdlkfjsdlfsdjfkd</p>
         </div>
         <div className="kaka"> 
         {currentArticle === 1 && <Resume />}
