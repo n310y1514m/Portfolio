@@ -1,3 +1,3 @@
 export function Resume() {
-    return <img src="/Resume.png"/>;
+    return <img src="public/Resume.png"/>;
   }
