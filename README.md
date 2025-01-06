@@ -1,5 +1,5 @@
 # Portfolio
-# Weather and Projects Website  
+View the website live at: https://n310y1514m.github.io/Portfolio/
 
 This is a React-based website that showcases a Weather App and a Resume Viewer. The app allows users to view weather information for different cities and access a resume.  
 
